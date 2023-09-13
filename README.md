@@ -4,7 +4,7 @@
 I have developed a simple application to find reflected xss
 
 see this video to know how it work
-
+https://www.youtube.com/watch?v=XLn3MMkLIYg
 
 not forget to follow me 
 https://www.facebook.com/ahmed.othman.2121
